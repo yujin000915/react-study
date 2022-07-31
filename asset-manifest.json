@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/react-study/static/css/main.073c9b0a.css",
-    "main.js": "/react-study/static/js/main.77073f33.js",
+    "main.css": "/react-study/static/css/main.5978068c.css",
+    "main.js": "/react-study/static/js/main.cf879d08.js",
     "static/js/787.f587e8d5.chunk.js": "/react-study/static/js/787.f587e8d5.chunk.js",
-    "static/media/logo.svg": "/react-study/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/sec01.jpg": "/react-study/static/media/sec01.15221b14075a1cde7045.jpg",
+    "static/media/sec02.jpg": "/react-study/static/media/sec02.5895038a5c4a498b5652.jpg",
+    "static/media/sec03.jpg": "/react-study/static/media/sec03.ba465cd33f02007d31dc.jpg",
+    "static/media/sec_apply.jpg": "/react-study/static/media/sec_apply.8d4f547212ed80b8f377.jpg",
+    "static/media/header_gnb.png": "/react-study/static/media/header_gnb.a609967945ad30178619.png",
     "index.html": "/react-study/index.html",
-    "main.073c9b0a.css.map": "/react-study/static/css/main.073c9b0a.css.map",
-    "main.77073f33.js.map": "/react-study/static/js/main.77073f33.js.map",
+    "main.5978068c.css.map": "/react-study/static/css/main.5978068c.css.map",
+    "main.cf879d08.js.map": "/react-study/static/js/main.cf879d08.js.map",
     "787.f587e8d5.chunk.js.map": "/react-study/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.77073f33.js"
+    "static/css/main.5978068c.css",
+    "static/js/main.cf879d08.js"
   ]
 }
