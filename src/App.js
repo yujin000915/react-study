@@ -9,13 +9,13 @@ import Landing from './components/Landing';
 import LandingSwiper from './components/LandingSwiper';
 
 function App() {
-  return (
-    <div>
-      <Header />
-      <Landing />
-      <LandingSwiper />
-    </div>
-  );
+    return (
+        <div>
+          <Header />
+          <Landing />
+          <LandingSwiper />
+        </div>
+    );
 }
 
 export default App;

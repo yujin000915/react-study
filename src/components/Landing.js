@@ -17,6 +17,8 @@ function Landing() {
 
             <div className="secApply">
                 <img src={secApply}/>
+
+                <button onClick={() => alert('Hi ㅎㅎ')} className='secApply_btn'></button>
             </div>
 
             <div className="sec02">

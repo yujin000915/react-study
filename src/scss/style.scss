@@ -1,0 +1,38 @@
+// Landing.js
+.secApply {
+    position: relative;
+
+    &_btn {
+        position: absolute;
+        top: 30%;
+        right: 22.2%;
+        width: 13%;
+        height: 56%;
+        border: none;
+        background: none;
+    }
+}
+
+
+// LandingSwiper.js
+.sec03 {
+    position: relative;
+    
+    &_Sl {
+        position: absolute !important;
+        top: 60%;
+        left: calc(50% - 25%);
+        width: 50%;
+        height: auto;
+
+        .swiper-slide {
+            display: flex;
+            justify-content: center;            
+            align-items: center;
+
+            .slImg {
+                width: 80%;
+            }
+        }
+    }
+}
